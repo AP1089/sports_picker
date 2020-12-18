@@ -1,4 +1,4 @@
-This is a sample sports picking application built with Flutter. You select the team that you think will win within each sport's section. The app is structured using Flutter's Bloc Pattern. 
+This is a sample sports picking application built with Flutter. You select the teams that you think will win within each sport's section. The app is structured using Flutter's Bloc Pattern. 
 
 <img src="assets/images/mlb_screenshot.png" width="400">
 
