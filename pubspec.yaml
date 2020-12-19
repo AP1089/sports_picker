@@ -50,6 +50,7 @@ flutter:
     - assets/images/mlb_action_image.jpeg
     - assets/images/nba_action_image.jpg
     - assets/images/nfl_action_image.jpg
+    - lib/features/games/api/games_mocked_data.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

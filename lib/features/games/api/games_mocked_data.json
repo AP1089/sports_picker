@@ -1,0 +1,132 @@
+{
+  "games": [
+    {
+      "sport": "MLB",
+      "actionImage": "assets/images/mlb_action_image.jpeg",
+      "gameId": "123456789",
+      "gameTime": "Jan 04, 08:00AM EST",
+      "homeTeam": "REDS",
+      "awayTeam": "YANKEES"
+    },
+    {
+      "sport": "MLB",
+      "actionImage": "assets/images/mlb_action_image.jpeg",
+      "gameId": "987654321",
+      "gameTime": "Jan 04, 10:30AM EST",
+      "homeTeam": "METS",
+      "awayTeam": "DODGERS"
+    },
+    {
+      "sport": "MLB",
+      "actionImage": "assets/images/mlb_action_image.jpeg",
+      "gameId": "123459876",
+      "gameTime": "Jan 04, 12:00PM EST",
+      "homeTeam": "CUBS",
+      "awayTeam": "CARDINALS"
+    },
+    {
+      "sport": "MLB",
+      "actionImage": "assets/images/mlb_action_image.jpeg",
+      "gameId": "123452876",
+      "gameTime": "Jan 04, 01:30PM EST",
+      "homeTeam": "GIANTS",
+      "awayTeam": "ANGELS"
+    },
+    {
+      "sport": "NBA",
+      "actionImage": "assets/images/nba_action_image.jpg",
+      "gameId": "4839506000",
+      "gameTime": "Jan 05, 08:00AM EST",
+      "homeTeam": "LAKERS",
+      "awayTeam": "CAVS"
+    },
+    {
+      "sport": "NBA",
+      "actionImage": "assets/images/nba_action_image.jpg",
+      "gameId": "223435679",
+      "gameTime": "Jan 05, 10:30AM EST",
+      "homeTeam": "KNICKS",
+      "awayTeam": "NETS"
+    },
+    {
+      "sport": "NBA",
+      "actionImage": "assets/images/nba_action_image.jpg",
+      "gameId": "0090008765",
+      "gameTime": "Jan 05, 12:00PM EST",
+      "homeTeam": "WARRIORS",
+      "awayTeam": "ROCKETS"
+    },
+    {
+      "sport": "NBA",
+      "actionImage": "assets/images/nba_action_image.jpg",
+      "gameId": "009000d765",
+      "gameTime": "Jan 05, 01:30PM EST",
+      "homeTeam": "BUCKS",
+      "awayTeam": "SUNS"
+    },
+    {
+      "sport": "NFL",
+      "actionImage": "assets/images/nfl_action_image.jpg",
+      "gameId": "838383832",
+      "gameTime": "Jan 06, 08:00AM EST",
+      "homeTeam": "BROWNS",
+      "awayTeam": "BENGALS"
+    },
+    {
+      "sport": "NFL",
+      "actionImage": "assets/images/nfl_action_image.jpg",
+      "gameId": "010101020",
+      "gameTime": "Jan 06, 10:30AM EST",
+      "homeTeam": "COWBOYS",
+      "awayTeam": "PACKERS"
+    },
+    {
+      "sport": "NFL",
+      "actionImage": "assets/images/nfl_action_image.jpg",
+      "gameId": "110038383",
+      "gameTime": "Jan 06, 12:00PM EST",
+      "homeTeam": "FALCONS",
+      "awayTeam": "PATRIOTS"
+    },
+    {
+      "sport": "NFL",
+      "actionImage": "assets/images/nfl_action_image.jpg",
+      "gameId": "210038383",
+      "gameTime": "Jan 06, 01:30PM EST",
+      "homeTeam": "LIONS",
+      "awayTeam": "PANTHERS"
+    },
+    {
+      "sport": "EPL",
+      "actionImage": "assets/images/fifa_action_image.jpg",
+      "gameId": "138383831",
+      "gameTime": "Jan 07, 08:00AM EST",
+      "homeTeam": "ARSENAL",
+      "awayTeam": "LIVERPOOL"
+    },
+    {
+      "sport": "EPL",
+      "actionImage": "assets/images/fifa_action_image.jpg",
+      "gameId": "910101020",
+      "gameTime": "Jan 07, 10:30AM EST",
+      "homeTeam": "ASTON VILLA",
+      "awayTeam": "MANCHESTER UNITED"
+    },
+    {
+      "sport": "EPL",
+      "actionImage": "assets/images/fifa_action_image.jpg",
+      "gameId": "210038583",
+      "gameTime": "Jan 07, 12:00PM EST",
+      "homeTeam": "CHELSEA",
+      "awayTeam": "EVERTON"
+    },
+    {
+      "sport": "EPL",
+      "actionImage": "assets/images/fifa_action_image.jpg",
+      "gameId": "110038389",
+      "gameTime": "Jan 07, 01:30PM EST",
+      "homeTeam": "TOTTENHAM",
+      "awayTeam": "WEST HAM"
+    }
+  ]
+}
