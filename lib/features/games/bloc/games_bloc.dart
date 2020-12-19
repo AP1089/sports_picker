@@ -19,7 +19,7 @@ class GamesBloc extends Bloc {
 
   GamesBloc() {
     updateSelectedGamePipe.stream
-        .listen((gameData) => _updateAGameToSelected(gameData));
+        .listen((gameData) => _updateSelectedGame(gameData));
     updateSelectedSportPipe.stream
         .listen((sport) => _updateSelectedSport(sport));
   }
@@ -58,7 +58,7 @@ class GamesBloc extends Bloc {
         .add(_model.allGameLists[_model.selectedSport]);
   }
 
-  void _updateAGameToSelected(Map<String, SelectedWinner> gameData) {
+  void _updateSelectedGame(Map<String, SelectedWinner> gameData) {
     _model.allGameLists[_model.selectedSport].forEach((game) {
       if (game.gameID == gameData.keys.first) {
         if (game.selectedWinner == gameData.values.first) {
